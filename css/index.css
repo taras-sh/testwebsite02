@@ -111,7 +111,7 @@ form{
     header .menu li {
         margin: 0 2%;
     }
-#portfolio{
+.photos{
     display: flex;
     justify-content: space-around;
 }
