@@ -51,7 +51,7 @@ h2{
 
 #myphoto img{
     display: block;
-    margin: 0 auto;
+    margin: auto;
     max-width: 400px;
 }
 .about-me{
@@ -114,11 +114,13 @@ form{
 .photos{
     display: flex;
     justify-content: space-around;
+    margin: auto;
 }
 
 .prices{
     display: flex;
     justify-content: space-around;
+    margin: auto;
     }
 .prices-wedding{
     max-width: 280px;
